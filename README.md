@@ -1,0 +1,2 @@
+# cn_jp_kanji_handwriter_android
+这个仓库致力于用最简单的方式模仿一个中日汉字手写输入法
